@@ -1,0 +1,13 @@
+{
+    "name": "munee/graph_api",
+    "description": "Microsoft graph api using php",
+    "authors": [
+        {
+            "name": "crazyRubix",
+            "email": "muneebkt@gmail.com"
+        }
+    ],
+    "require": {
+        "microsoft/microsoft-graph": "^1.6"
+    }
+}
